@@ -1,0 +1,1 @@
+[{"fullText":"George Washington was the first president.","cloze":"George Washington","partialText":"... was the first president.","type":"cloze"},{"front":"George Washington","back":"first president","type":"basic"}]
